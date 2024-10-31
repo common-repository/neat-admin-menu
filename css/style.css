@@ -1,0 +1,37 @@
+.neat-admin-menu-container ul#sortable {
+        float: left;
+        width: 100%;
+}
+
+.neat-admin-menu-container #sortable li.ui-state-default {
+        padding: 7px;
+        text-indent: 5px;
+        width: 40%;
+        cursor: move;
+        position: relative;
+}
+
+.neat-admin-menu-container #fp-description {
+        margin-bottom: 15px !important;
+        overflow: hidden;
+        width: 100%;
+        max-width: 600px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        background-color: #fff;
+}
+
+.neat-admin-menu-container .save-wrapper {
+        width: 110px;
+        float: left;
+        overflow: hidden;
+}
+
+.neat-admin-menu-container .save-container {
+        width: 100%;
+        float: left;
+}
+
+.neat-admin-menu-hidden {
+        display: none;
+}
